@@ -47,6 +47,7 @@ button {
 button:hover{
     background-color: purple;
     color: black;
+    transform: scale(110%);
 }
 
 .fotos-container{
