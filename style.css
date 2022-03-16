@@ -34,7 +34,7 @@ header input:focus{
     border-bottom: none;
     color: black;
 }
-button {
+.button {
     width: 150px;
     height: 50px;
     background: blueviolet;
@@ -44,7 +44,7 @@ button {
     color: white;
     transition: all 1s linear;
 }
-button:hover{
+.button:hover{
     background-color: purple;
     color: black;
     transform: scale(110%);
